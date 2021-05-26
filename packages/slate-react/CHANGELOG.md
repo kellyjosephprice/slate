@@ -1,5 +1,13 @@
 # slate-react
 
+## 0.64.1
+
+### Patch Changes
+
+- [#4272](https://github.com/ianstormtaylor/slate/pull/4272) [`294d5120`](https://github.com/ianstormtaylor/slate/commit/294d5120aed89f4e1c7a818e0d1339f4fa1cbaf5) Thanks [@clauderic](https://github.com/clauderic)! - Fix errors accessing `globalThis` in browsers that do not implement it
+
+* [#4271](https://github.com/ianstormtaylor/slate/pull/4271) [`ff267767`](https://github.com/ianstormtaylor/slate/commit/ff267767f61577fdbd68119a1c978e9856e3bb31) Thanks [@omerg](https://github.com/omerg)! - Fixed typo: Renamed `toSlatePoint` argument `extractMatch` to `exactMatch`
+
 ## 0.64.0
 
 ### Minor Changes
